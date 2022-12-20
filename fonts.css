@@ -1,0 +1,17 @@
+body{
+    
+    background-image: url("https://images.unsplash.com/photo-1636921102630-365bb27ea7ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80");
+}
+main{
+    width: 60%;
+    margin: 0 auto;
+    font-style: italic;
+    
+}
+h1,h2,h3{
+   font-family: 'Courgette', cursive;;
+}
+
+p{
+    font-style:  'Cookie', cursive;
+}
